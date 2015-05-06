@@ -1,0 +1,92 @@
+﻿<Page
+    x:Class="Grocery_Master.ItemNutritionPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Grocery_Master"
+    xmlns:data="using:Grocery_Master.GroceryNutritionData"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:dc="using:Grocery_Master.Converters"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    DataContext="{Binding DefaultViewModel.Item, RelativeSource={RelativeSource Self}}"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <dc:NutritionNameConverter x:Key="NutritionNameConverter"/>
+    </Page.Resources>
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="Smart Kitchen" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Nutrition Fact" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <Grid Grid.Row="1"  Margin="19,9.5,19,0">
+            <TextBlock Text="{Binding Name,Converter={StaticResource  NutritionNameConverter}}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+        </Grid>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="2" x:Name="ContentRoot" Margin="19,9.5,19,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Grid.Column="0">
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding WATER.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding ENERC_KCAL.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding PROCNT.Desc}"  Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding FAT.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding CHOCDF.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding FIBTG.Desc}"  Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding SUGAR.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITA_RAE.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITB6A.Desc}"  Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding VITB12.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITC.Desc}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="1" Margin="25,0,0,0">
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding WATER.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding ENERC_KCAL.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" />
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding PROCNT.Value}"  Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" Foreground="Gray"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding FAT.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding CHOCDF.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding FIBTG.Value}"  Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding SUGAR.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITA_RAE.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITB6A.Value}"  Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" Foreground="Gray"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding VITB12.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITC.Value}" Style="{ThemeResource ListViewItemTextBlockStyle}" HorizontalAlignment="Left" Foreground="Gray"/>
+            </StackPanel>
+
+            <StackPanel Grid.Column="2" Margin="15,0,0,0">
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding WATER.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding ENERC_KCAL.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding PROCNT.Uom}"  Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding FAT.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding CHOCDF.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding FIBTG.Uom}"  Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding SUGAR.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITA_RAE.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITB6A.Uom}"  Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+                <TextBlock  Margin="0,0,0,9.5" Text="{Binding VITB12.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}"/>
+                <TextBlock Margin="0,0,0,9.5" Text="{Binding VITC.Uom}" Style="{ThemeResource ListViewItemTextBlockStyle}" Foreground="Gray"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>
+

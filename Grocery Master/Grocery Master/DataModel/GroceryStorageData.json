@@ -1,0 +1,148 @@
+{
+    "Groups": [
+        {
+            "UniqueId": "Group-1",
+            "Category": "Fruits & Vegetables",
+            "Expire": 7,
+            "ImagePath": "Assets/FV300X300.png",
+            "Name": "fruits & veggies",
+            "Count": 0,
+            "Items": [
+                {
+                    "UniqueId": "Group-1-Item-1",
+                    "Name": "Apple",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                },
+                {
+                    "UniqueId": "Group-1-Item-2",
+                    "Name": "Banana",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-2",
+            "Category": "Meat & Seafood",
+            "Expire": 7,
+            "ImagePath": "Assets/MS300X300.png",
+            "Name": "meat & seafood",
+            "Count": 0,
+            "Items": [
+                {
+                    "UniqueId": "Group-2-Item-1",
+                    "Name": "Beef",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                },
+                {
+                    "UniqueId": "Group-2-Item-2",
+                    "Name": "Chicken",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                },
+                {
+                    "UniqueId": "Group-2-Item-3",
+                    "Name": "Fish",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-3",
+            "Category": "Frozen Foods",
+            "Expire": 180,
+            "ImagePath": "Assets/F300X300.png",
+            "Name": "frozen food",
+            "Count": 0,
+            "Items": [
+                {
+                    "UniqueId": "Group-3-Item-1",
+                    "Name": "Pizza",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-4",
+            "Category": "Dairy, Eggs & Cheese",
+            "Expire": 21,
+            "ImagePath": "Assets/DEC300X300.png",
+            "Name": "dairy, egg & cheese",
+            "Count": 0,
+            "Items": [
+                {
+                    "UniqueId": "Group-4-Item-1",
+                    "Name": "Milk",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                },
+                {
+                    "UniqueId": "Group-4-Item-2",
+                    "Name": "Egg",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                },
+                {
+                    "UniqueId": "Group-4-Item-3",
+                    "Name": "Cream",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-5",
+            "Category": "Beverages",
+            "Expire": 21,
+            "ImagePath": "Assets/BS300X300.png",
+            "Name": "beverages",
+            "Count": 0,
+            "Items": [
+                {
+                    "UniqueId": "Group-5-Item-1",
+                    "Name": "Juice",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                },
+                {
+                    "UniqueId": "Group-5-Item-2",
+                    "Name": "Coke",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-6",
+            "Category": "Canned Goods & Soups",
+            "Expire": 365,
+            "ImagePath": "Assets/CGS300X300.png",
+            "Name": "canned good & soups",
+            "Count": 0,
+            "Items": [
+                {
+                    "UniqueId": "Group-6-Item-1",
+                    "Name": "Corn",
+                    "Date": "1/22/2015",
+                    "Expire": 0,
+                    "ImagePath": ""
+                }
+            ]
+        }
+    ]
+}

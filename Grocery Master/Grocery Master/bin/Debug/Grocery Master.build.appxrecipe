@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JIANHAO-PC</Machine>
+    <WindowsUser>songj_000</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b26d27ee-0051-4eba-9478-263cef24e43c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\Grocery Master.exe">
+      <PackagePath>Grocery Master.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\B300x300.png">
+      <PackagePath>Assets\B300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Bookmark.png">
+      <PackagePath>Assets\Bookmark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\BS300x300.png">
+      <PackagePath>Assets\BS300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\CGS300x300.png">
+      <PackagePath>Assets\CGS300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\DEC300x300.png">
+      <PackagePath>Assets\DEC300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\delete.png">
+      <PackagePath>Assets\delete.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\F300x300.png">
+      <PackagePath>Assets\F300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\FV300x300.png">
+      <PackagePath>Assets\FV300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Green.png">
+      <PackagePath>Assets\Green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\HubBackground.theme-dark.png">
+      <PackagePath>Assets\HubBackground.theme-dark.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\HubBackground.theme-light.png">
+      <PackagePath>Assets\HubBackground.theme-light.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\MS300x300.png">
+      <PackagePath>Assets\MS300x300.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Orange.png">
+      <PackagePath>Assets\Orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Recommand.png">
+      <PackagePath>Assets\Recommand.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Red.png">
+      <PackagePath>Assets\Red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Search.png">
+      <PackagePath>Assets\Search.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Assets\Yellow.png">
+      <PackagePath>Assets\Yellow.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\DataModel\GroceryStorageData.json">
+      <PackagePath>DataModel\GroceryStorageData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\DataModel\ShoppingListData.json">
+      <PackagePath>DataModel\ShoppingListData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\DataModel\CategoryData.json">
+      <PackagePath>DataModel\CategoryData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\DataModel\NutritionCategoryData.json">
+      <PackagePath>DataModel\NutritionCategoryData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\ChooseCategoryPage.xbf">
+      <PackagePath>ChooseCategoryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\FavoritePage.xbf">
+      <PackagePath>FavoritePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\ItemNutritionPage.xbf">
+      <PackagePath>ItemNutritionPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\NewShoppingListPage.xbf">
+      <PackagePath>NewShoppingListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\NutritionAnalysisPage.xbf">
+      <PackagePath>NutritionAnalysisPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\RecipeSearchPage.xbf">
+      <PackagePath>RecipeSearchPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\RecommandationPage.xbf">
+      <PackagePath>RecommandationPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\ShoppingListPage.xbf">
+      <PackagePath>ShoppingListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\StorageListPage.xbf">
+      <PackagePath>StorageListPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\Grocery Master.xr.xml">
+      <PackagePath>Grocery Master.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

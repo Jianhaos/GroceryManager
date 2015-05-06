@@ -1,0 +1,78 @@
+{
+    "Groups": [
+        {
+            "UniqueId": "Group-1",
+            "Title": "2/12 at Ralphs",
+            "Date": "2/12/2015",
+            "Store": "Ralphs",
+            "Items": [
+                {
+                    "UniqueId": "Group-1-Item-11",
+                    "Name": "Apple",
+                    "Category": "Fruits & Vegetables"
+                },
+                {
+                    "UniqueId": "Group-1-Item-12",
+                    "Name": "Banana",
+                    "Category": "Fruits & Vegetables"
+
+                },
+                {
+                    "UniqueId": "Group-1-Item-13",
+                    "Name": "Orange",
+                    "Category": "Fruits & Vegetables"
+
+                }
+            ]
+        },
+        {
+            "UniqueId": "Group-2",
+            "Title": "2/12 at CVS",
+            "Date": "2/12/2015",
+            "Store": "CVS",
+            "Items": [
+                {
+                    "UniqueId": "Group-2-Item-21",
+                    "Name": "Apple",
+                    "Category": "Fruits & Vegetables"
+                },
+                {
+                    "UniqueId": "Group-2-Item-22",
+                    "Name": "Banana",
+                    "Category": "Fruits & Vegetables"
+
+                },
+                {
+                    "UniqueId": "Group-2-Item-23",
+                    "Name": "Orange",
+                    "Category": "Fruits & Vegetables"
+
+                }
+            ]
+        },
+                {
+            "UniqueId": "Group-3",
+            "Title": "2/12 at Costco",
+            "Date": "2/12/2015",
+            "Store": "Costco",
+            "Items": [
+                {
+                    "UniqueId": "Group-3-Item-31",
+                    "Name": "Apple",
+                    "Category": "Fruits & Vegetables"
+                },
+                {
+                    "UniqueId": "Group-3-Item-32",
+                    "Name": "Banana",
+                    "Category": "Fruits & Vegetables"
+
+                },
+                {
+                    "UniqueId": "Group-3-Item-33",
+                    "Name": "Orange",
+                    "Category": "Fruits & Vegetables"
+                }
+            ]
+        }
+    ]
+}

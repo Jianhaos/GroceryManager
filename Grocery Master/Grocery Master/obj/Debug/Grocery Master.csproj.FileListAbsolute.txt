@@ -1,0 +1,77 @@
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\App.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\ChooseCategoryPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\HubPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\ItemNutritionPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\NewShoppingListPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\NutritionAnalysisPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\RecommandationPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\ShoppingListPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\StorageListPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\Grocery Master.xr.xml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\Grocery Master.exe
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\Grocery Master.pdb
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\resources.pri
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\AppxManifest.xml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\Grocery Master.build.appxrecipe
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\App.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\App.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ChooseCategoryPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ChooseCategoryPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\HubPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\HubPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ItemNutritionPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ItemNutritionPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NewShoppingListPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NewShoppingListPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NutritionAnalysisPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NutritionAnalysisPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecommandationPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecommandationPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ShoppingListPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ShoppingListPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\StorageListPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\StorageListPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\App.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ChooseCategoryPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\HubPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ItemNutritionPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NewShoppingListPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NutritionAnalysisPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecommandationPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ShoppingListPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\StorageListPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\App.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ChooseCategoryPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\HubPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ItemNutritionPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NewShoppingListPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\NutritionAnalysisPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecommandationPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ShoppingListPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\StorageListPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\XamlSaveStateFile.xml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\Grocery Master.exe
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\Grocery Master.pdb
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\priconfig.xml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\priconfig.xml.intermediate
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\layout.resfiles
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\layout.resfiles.intermediate
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\resources.resfiles
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\resources.resfiles.intermediate
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\pri.resfiles
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\pri.resfiles.intermediate
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\qualifiers.txt
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\qualifiers.txt.intermediate
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\ProjectArchitectures.txt
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecipeSearchPage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecipeSearchPage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecipeSearchPage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\RecipeSearchPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\RecipeSearchPage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\FavoritePage.g.i.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\FavoritePage.g.cs
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\FavoritePage.xaml
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\obj\Debug\FavoritePage.xbf
+C:\Users\songj_000\Documents\Visual Studio 2013\Projects\Grocery Master\Grocery Master\bin\Debug\FavoritePage.xbf

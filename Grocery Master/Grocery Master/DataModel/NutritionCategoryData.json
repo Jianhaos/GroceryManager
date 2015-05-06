@@ -1,0 +1,49 @@
+{
+    "Items": [
+        {
+            "Name": "Water",
+            "Key": "WATER"
+        },
+        {
+            "Name": "Energy",
+            "Key": "ENERC_KCAL"
+        },
+        {
+            "Name": "Protein",
+            "Key": "PROCNT"
+        },
+        {
+            "Name": "Fat",
+            "Key": "FAT"
+        },
+        {
+            "Name": "Carbohydrate",
+            "Key": "CHOCDF"
+        },
+        {
+            "Name": "Fiber",
+            "Key": "FIBTG"
+        },
+        {
+            "Name": "Sugars",
+            "Key": "SUGAR"
+        },
+        {
+            "Name": "Vitamin A",
+            "Key": "VITA_RAE"
+        },
+        {
+            "Name": "Vitamin B-6",
+            "Key": "VITB6A"
+        },
+        {
+            "Name": "Vitamin B-12",
+            "Key": "VITB12"
+
+        },
+        {
+            "Name": "Vitamin C",
+            "Key": "VITC"
+        }
+    ]
+}
